@@ -14,7 +14,7 @@ You can clone this repository and used in your software of choice. I used Google
 
 ## References
 
-These are some must read research papers on GANs if you are interested:
+These are some interesting research papers on GANs:
 - Generative Adversarial Networks — Goodfellow et al. (2014)
 - Conditional GANs — Mirza and Osindero (2014)
 - DCGANs — Radford et al. (2015)
